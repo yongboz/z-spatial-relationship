@@ -1,0 +1,22 @@
+{
+  "name": "z-spatial-relationship",
+  "version": "1.0.0",
+  "description": "判断空间关系",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yongboz/z-spatial-relationship.git"
+  },
+  "author": "yongboz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yongboz/z-spatial-relationship/issues"
+  },
+  "homepage": "https://github.com/yongboz/z-spatial-relationship#readme"
+}
